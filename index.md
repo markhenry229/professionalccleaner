@@ -1,1 +1,1 @@
-Good project start for the testing of readthedocs that will be implemented later.
+Testing my first project yippie. This is amazing.
