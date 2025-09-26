@@ -1,3 +1,3 @@
-# How
+# Guide
 
-Testing my first project yippie. This is amazing.
+This will be beneficial for the new users that will visit the website.
