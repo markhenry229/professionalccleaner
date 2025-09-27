@@ -1,3 +1,3 @@
-# Guide for Project
+# New Project
 
-This will be beneficial for the new users that will visit the website.
+Yayy i have finally completed this website!
